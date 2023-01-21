@@ -1,16 +1,12 @@
-### Hi there 👋
+# Lawrence Wilson II
+<img src="https://user-images.githubusercontent.com/99457791/213886023-3d6309f6-e244-45a9-921f-9842c2c29501.jpg" width="100" height="150">
+Greetings! I am currently a college sohpmore looking to gain a Computer Science degree with a concentration of Artifical Intelligence. 
 
-<!--
-**GlitzyProgrammer/GlitzyProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Languages
+ * Python 🐍
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Outside of Computer Science  
+* I am learning French
+* Currently active at the University Nebraska Omaha's Queer and Trangender Services as a board member
+ 
+ 
