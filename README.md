@@ -5,10 +5,9 @@ Greetings! I am a college Junior looking to gain a Computer Science degree with 
 # Languages
  * Python 🐍
  * C
- * R
 
 # Outside of Computer Science  
 * I am learning French
-* Currently active at the University Nebraska Omaha's Queer and Trangender Services as a board member
+* Currently active at the University of Nebraska Omaha's Queer and Transgender Services as a Co-Director
  
  
