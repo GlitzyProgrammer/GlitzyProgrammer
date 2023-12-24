@@ -7,7 +7,7 @@ Greetings! I am a college Junior looking to gain a Computer Science degree with 
  * C
 
 # Outside of Computer Science  
-* I am learning French
+* A2 Level of french 
 * Currently active at the University of Nebraska Omaha's Queer and Transgender Services as a Co-Director
  
  
