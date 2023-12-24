@@ -3,7 +3,7 @@
 Greetings! I am a college Junior looking to gain a Computer Science degree with a concentration in Artificial Intelligence with a basis in Data Analytics. 
 
 # Languages
- * Python 🐍 and its common statistical packages 
+ * Python 🐍 
  * C
 
 # Outside of Computer Science  
