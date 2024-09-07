@@ -6,9 +6,11 @@ Greetings! I am a college Junior looking to gain a Computer Science degree with 
  * Python 🐍 
  * C/C#
  * Jupyter Notebook
+ * COBOL
 
 # Outside of Computer Science  
 * A2 Level of French 
 * Currently active at the University of Nebraska Omaha's Queer and Transgender Services as a Co-Director
+* Linkedin Profile www.linkedin.com/in/lawrence-wilson-ii-4148b6188
  
  
