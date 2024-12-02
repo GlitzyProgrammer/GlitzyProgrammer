@@ -13,4 +13,6 @@ Greetings! I am a college Junior looking to gain a Computer Science degree with 
 * Currently active at the University of Nebraska Omaha's Queer and Transgender Services as a Director
 * Linkedin Profile www.linkedin.com/in/lawrence-wilson-ii-4148b6188
  
- 
+ #Projects I'm on 
+ Full Stack Developer for Project Ducki
+ https://github.com/UNO-CSCI4830/Ducki/tree/main
