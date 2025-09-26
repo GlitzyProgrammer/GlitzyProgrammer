@@ -6,7 +6,7 @@ Greetings! I am a college Junior looking to gain a Computer Science degree with 
  * Python 🐍 
  * C/C#
  * Jupyter Notebook
- * COBOL
+ * R
 
 # Outside of Computer Science  
 * A2 Level of French 
