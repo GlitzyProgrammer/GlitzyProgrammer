@@ -13,8 +13,10 @@ Greetings! I am a college Senior looking to gain a Computer Science degree with 
 * Linkedin Profile www.linkedin.com/in/lawrence-wilson-ii-4148b6188
  
  #Projects I was a part of!
- FNBO Datathon 2025
  
+ 
+ 
+ FNBO Datathon 2025
  Full Stack Developer for Project Ducki
  https://github.com/UNO-CSCI4830/Ducki/tree/main
 
