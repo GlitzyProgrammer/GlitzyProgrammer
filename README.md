@@ -1,6 +1,6 @@
 # Lawrence Wilson II
 <img src="https://user-images.githubusercontent.com/99457791/213886023-3d6309f6-e244-45a9-921f-9842c2c29501.jpg" width="100" height="150">
-Greetings! I am a college Junior looking to gain a Computer Science degree with a concentration in Artificial Intelligence with a basis in Data Analytics. 
+Greetings! I am a college Senior looking to gain a Computer Science degree with a concentration in Artificial Intelligence with a basis in Data Analytics. 
 
 # Languages
  * Python 🐍 
@@ -12,6 +12,9 @@ Greetings! I am a college Junior looking to gain a Computer Science degree with 
 * A2 Level of French 
 * Linkedin Profile www.linkedin.com/in/lawrence-wilson-ii-4148b6188
  
- #Projects I'm on 
+ #Projects I was a part of!
+ FNBO Datathon 2025
+ 
  Full Stack Developer for Project Ducki
  https://github.com/UNO-CSCI4830/Ducki/tree/main
+
