@@ -16,7 +16,7 @@ Greetings! I am a college Senior looking to gain a Computer Science degree with 
  
  
  
- FNBO Datathon 2025
- Full Stack Developer for Project Ducki
+* FNBO Datathon 2025
+* Full Stack Developer for Project Ducki
  https://github.com/UNO-CSCI4830/Ducki/tree/main
 
